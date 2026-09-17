@@ -1,6 +1,6 @@
 
 
-##Hi, I'm Nini B.
+Hi, I'm Nini B.
 
 Data Analyst focused on transforming raw and messy data into reliable analytical systems and business insights.
 
