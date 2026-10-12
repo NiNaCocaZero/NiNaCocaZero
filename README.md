@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ root@NinaCocaZero:~#
+
 
 </div>
 
@@ -38,14 +38,8 @@ Data Analyst focused on transforming raw and messy data into reliable analytical
 
 ---
 
-### 💻 Tech Stack // Terminal Environment
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,powerbi,git,github,vscode,linux,mysql&perline=8" />
-</div>
 
 <br>
 
-<div align="center">
-  <code>// SYSTEM STATUS: RUNNING OPTIMAL [NO ERRORS]</code>
-</div>
+
