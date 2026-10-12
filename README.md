@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,15,30&height=200&section=header&text=System.init(%27NiNaCocaZero%27)&fontSize=32&fontColor=00FF66&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%26%20Systems%20Student&descSize=15&descColor=00f0ff" />
+
+# ⚡ root@NinaCocaZero:~#
+
 </div>
 
 <p align="center">
@@ -44,19 +46,6 @@ Data Analyst focused on transforming raw and messy data into reliable analytical
 
 <br>
 
-### 📊 Network Metrics // GitHub Stats
-
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=NiNaCocaZero&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00f0ff&text_color=c0caf5" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiNaCocaZero&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=c0caf5" />
-  </p>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,0&height=100&section=footer&text=%3C%2F%3E%20Executing_Excellence&fontSize=18&fontColor=00FF66" />
+  <code>// SYSTEM STATUS: RUNNING OPTIMAL [NO ERRORS]</code>
 </div>
