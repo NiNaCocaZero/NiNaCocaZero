@@ -1,5 +1,5 @@
 <div align="center">
-<div align="center" style="position: relative; padding: 40px 20px; background-image: url('https://raw.githubusercontent.com/NiNaCocaZero/NiNaCocaZero/refs/heads/main/COSMIC%20STRINGS.jfif'); background-size: cover; background-position: center; border-radius: 12px;">
+<div align="center" style="position: relative; padding: 40px 20px; background-image: url('COSMIC STRINGS.jfif'); background-size: cover; background-position: center; border-radius: 12px;">
 
   <!-- Si querés que la imagen tenga un filtro oscuro encima para que el texto resalte más, podés usar una capa translúcida o dejarlo directo -->
 
