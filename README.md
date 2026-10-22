@@ -1,4 +1,4 @@
-<table width="100%" background="URL_DE_TU_GIF_AQUI.gif" style="border-radius: 12px; border-collapse: collapse;">
+<table width="100%" background="cosmicMobe.gif" style="border-radius: 12px; border-collapse: collapse;">
   <tr>
     <td align="center" style="padding: 50px 20px; background-color: rgba(0, 0, 0, 0.6); border-radius: 12px;">
       
