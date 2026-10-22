@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=220&section=header&text=Nini%20B.%20-%20Data%20Analyst&fontSize=35&fontColor=00FF66&animation=fadeIn&fontAlignY=38" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=220&section=header&text=Nini&fontSize=35&fontColor=00FF66&animation=fadeIn&fontAlignY=38" />
   </a>
 </p>
 
