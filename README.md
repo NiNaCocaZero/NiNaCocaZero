@@ -1,6 +1,14 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0&fill=gradient&customColorList=1,2,15,25&height=220&section=header&text=Nini&fontSize=34&fontColor=00FF66&fontFamily=Orbitron&animation=fadeIn&fontAlignY=45" alt="Cosmic Banner" />
-</p>
+<table width="100%" background="URL_DE_TU_GIF_AQUI.gif" style="border-radius: 12px; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="padding: 50px 20px; background-color: rgba(0, 0, 0, 0.6); border-radius: 12px;">
+      
+      <!-- Nini B. -->
+      <h1><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=NINI+B.+%E2%9A%A1+DATA+ANALYST;PROCESSING_ANALYTICAL_SYSTEMS" alt="Typing SVG" /></h1>
+      <p style="color: #A0AEC0; font-family: monospace; font-size: 16px;">Transforming raw data into reliable insights</p>
+
+    </td>
+  </tr>
+</table>
  
 
 
