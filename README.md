@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="./retro.jpg" alt="Banner Retro" width="100%" style="border-radius: 12px;" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=220&section=header&text=Nini%20B.%20-%20Data%20Analyst&fontSize=35&fontColor=00FF66&animation=fadeIn&fontAlignY=38" />
+  </a>
 </p>
 
-  <!-- Si querés que la imagen tenga un filtro oscuro encima para que el texto resalte más, podés usar una capa translúcida o dejarlo directo -->
+ 
 
 
 
