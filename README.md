@@ -1,9 +1,6 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=220&section=header&text=Nini&fontSize=35&fontColor=00FF66&animation=fadeIn&fontAlignY=38" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0&fill=gradient&customColorList=1,2,15,25&height=220&section=header&text=Nini&fontSize=34&fontColor=00FF66&fontFamily=Orbitron&animation=fadeIn&fontAlignY=45" alt="Cosmic Banner" />
 </p>
-
  
 
 
